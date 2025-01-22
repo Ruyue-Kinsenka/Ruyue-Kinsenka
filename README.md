@@ -15,7 +15,7 @@ A college student.
 ![](https://count.getloli.com/get/@Ruyue-Studio?theme=gelbooru)
 
 # 💻 Environment
-![MacOS](https://img.shields.io/badge/MacOS%20-b26b80?style=flat-square&logo=MacOS&logoColor=ffffff)
+![MacOS](https://img.shields.io/badge/MacOS%20-b26b80?style=flat-square&logo=Apple&logoColor=ffffff)
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2024%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 <!--
