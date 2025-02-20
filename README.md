@@ -1,5 +1,5 @@
 # Hi there 👋 this is Ruyue
-A college student.
+- A college student.
 
 # I am learning
 ![C/C++](https://img.shields.io/badge/C/C++%20-e3cb81?style=flat-square&logo=C&logoColor=ffffff)
@@ -8,8 +8,8 @@ A college student.
 ![Python](https://img.shields.io/badge/Python%20-cac1ba?style=flat-square&logo=Python&logoColor=ffffff)
 ![Kotlin](https://img.shields.io/badge/Kotlin%20-d76eec?style=flat-square&logo=Kotlin&logoColor=ffffff)
 
-![](https://github-readme-stats.vercel.app/api?username=Ruyue-Studio&show_icons=true&include_all_commits=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruyue-Studio&layout=compact&langs_count=10&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Ruyue-Kinsenka&show_icons=true&include_all_commits=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruyue-Kinsenka&layout=compact&langs_count=10&theme=radical)
 
 # Visitors
 ![](https://count.getloli.com/get/@Ruyue-Studio?theme=gelbooru)
