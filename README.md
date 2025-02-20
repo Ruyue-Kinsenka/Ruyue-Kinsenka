@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruyue-Kinsenka&layout=compact&langs_count=10&theme=radical)
 
 # Visitors
-![](https://count.getloli.com/get/@Ruyue-Studio?theme=gelbooru)
+![](https://count.getloli.com/get/@Ruyue-Kinsenka?theme=gelbooru)
 
 # 💻 Environment
 ![MacOS](https://img.shields.io/badge/MacOS%20-b26b80?style=flat-square&logo=Apple&logoColor=ffffff)
