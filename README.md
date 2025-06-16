@@ -1,34 +1,100 @@
-# Hi there 👋 this is Ruyue
-- A college student.
+# Hi there🌟
 
-# I am learning
-![C/C++](https://img.shields.io/badge/C/C++%20-e3cb81?style=flat-square&logo=C&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java%20-812f67?style=flat-square&logo=wine&logoColor=ffffff)
-![Android](https://img.shields.io/badge/Android%20-80ba77?style=flat-square&logo=Android&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python%20-cac1ba?style=flat-square&logo=Python&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/Kotlin%20-d76eec?style=flat-square&logo=Kotlin&logoColor=ffffff)
+### 🚀🚀🚀
 
-![](https://github-readme-stats.vercel.app/api?username=Ruyue-Kinsenka&show_icons=true&include_all_commits=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruyue-Kinsenka&layout=compact&langs_count=10&theme=radical)
+```
+gcc -o Person passerby.c && chmod +x Person && ./Person
+```
+
+🤗**I was born!!!**
+
+😎~~WIP~~. MY **LIFE**!!!
+
+~~~
+cat /dev/brain/passerby.c
+~~~
+
+**passerby.c**
+
+~~~c
+#include <stdio.h>
+#include <unistd.h>
+
+#define AGE 18
+#define STATUS student
+#define LOCATION China
+
+void myDay(double myMonery, double myEnergy);
+void eating(double myMonery);
+void asleep(double myEnergy);
+void play();
+void run(char* Game);
+void myPhone();
+void myPad();
+void myPC();
+void myInterset();
+void myEnvironment();
+
+int main(){
+  double myMonery = 0;
+  double myEnergy = 0;
+  myDay(myMonery, myEnergy);
+  return 0;
+}
+
+void myPhone(){
+  char* Phones[] = {"MEIZU 21", "Google Pixel 3", "Google Pixel 4", "SHARP AQUOS R2C", "SONY XPERIA XZ1C", "SHARP AQUOS RC", "LEITZ PHONE 1", "iPhone 12 MINI", "iPhone XR", "RAKETEN C330AE", "iPhone 7"};
+}
+
+void myPad(){
+  char* Pads[] = {"iPad Pro 2021", "Leveno ???"};
+}
+
+void myPC(){
+  char* PCs[] = {"MacBook PRO 2021", "Surface Laptop Go", "iTX"};
+}
+
+void myInterset(){
+  printf("Android Development\n");
+  printf("JAVA\nC\nPython\nC++\nC#\nUnity\n");
+  printf("I want to try writing something my dream story\n");
+}
+
+void myEnvironment(){
+  char* Envs[] = {"Ubuntu 22.04LTS", "MACOS 15.3", "Windows 11"};
+}
+
+void myDay(double myMonery, double myEnergy){
+  sleep(28800);
+  eating(myMonery);
+  sleep(14400);
+  eating(myMonery);
+  sleep(18000);
+  eating(myMonery);
+  play();
+  asleep(myEnergy);
+}
+
+void eating(double myMonery){
+  myMonery--;
+}
+
+void asleep(double myEnergy){
+  myEnergy++;
+}
+
+void play(){
+  run("OverWatch2");
+  run("MC");
+}
+
+void run(char* Game){
+  printf("%s, Start!!!",Game);
+}
+
+
+~~~
+
 
 # Visitors
 ![](https://count.getloli.com/get/@Ruyue-Kinsenka?theme=gelbooru)
-
-# 💻 Environment
-![MacOS](https://img.shields.io/badge/MacOS%20-b26b80?style=flat-square&logo=Apple&logoColor=ffffff)
-![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu%2024%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-<!--
-**Ruyue-Studio/Ruyue-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
