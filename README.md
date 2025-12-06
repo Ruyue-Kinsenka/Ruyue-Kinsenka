@@ -20,30 +20,12 @@ cat /dev/brain/passerby.c
 #include <stdio.h>
 #include <unistd.h>
 
-#define AGE 18
+#define AGE 19
 #define STATUS student
 #define LOCATION China
 
-void myDay(double myMonery, double myEnergy);
-void eating(double myMonery);
-void asleep(double myEnergy);
-void play();
-void run(char* Game);
-void myPhone();
-void myPad();
-void myPC();
-void myInterset();
-void myEnvironment();
-
-int main(){
-  double myMonery = 0;
-  double myEnergy = 0;
-  myDay(myMonery, myEnergy);
-  return 0;
-}
-
 void myPhone(){
-  char* Phones[] = {"MEIZU 21", "Google Pixel 3", "Google Pixel 4", "SHARP AQUOS R2C", "SONY XPERIA XZ1C", "SHARP AQUOS RC", "LEITZ PHONE 1", "iPhone 12 MINI", "iPhone XR", "RAKETEN C330AE", "iPhone 7"};
+  char* Phones[] = {"XiaoMI 15S PRO","Nothing Phone 1","AQUOS R5G","Nothing Phone 2A","MEIZU 21", "Google Pixel 3", "Google Pixel 4", "SHARP AQUOS R2C", "SONY XPERIA XZ1C", "SHARP AQUOS RC", "LEITZ PHONE 1", "iPhone 12 MINI", "iPhone XR", "RAKETEN C330AE", "iPhone 7"};
 }
 
 void myPad(){
@@ -66,17 +48,17 @@ void myEnvironment(){
 
 void myDay(double myMonery, double myEnergy){
   sleep(28800);
-  eating(myMonery);
+  eating(myMoney);
   sleep(14400);
-  eating(myMonery);
+  eating(myMoney);
   sleep(18000);
-  eating(myMonery);
+  eating(myMoney);
   play();
   asleep(myEnergy);
 }
 
-void eating(double myMonery){
-  myMonery--;
+void eating(double myMoney){
+  myMoney--;
 }
 
 void asleep(double myEnergy){
@@ -90,6 +72,13 @@ void play(){
 
 void run(char* Game){
   printf("%s, Start!!!",Game);
+}
+
+int main(){
+  double myMoney = 0;
+  double myEnergy = 0;
+  myDay(myMoney, myEnergy);
+  return 0;
 }
 
 
